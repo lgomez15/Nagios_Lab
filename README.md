@@ -13,7 +13,7 @@ Setting up Nagios can be complex due to the need for multiple machines and compa
 We recommend using PuTTY for a better experience, as it allows copy and paste operations.
 
 ### Download Virtual Nagios Lab Here
-[Lab download link](https://www.dropbox.com/scl/fi/d0jqucz73cjfrqhdf77gq/Nagios_Lab.zip?rlkey=ek6vgn76m9tfnvu6nfhcg0xm6&dl=0)
+[Nagios virtual lab](https://www.dropbox.com/scl/fi/71a9lbo6q411b0zte5jqy/Nagios_Lab_DropBox.zip?rlkey=68wdl4i3ldcvqm7kmiaogsr45&dl=0)
 
   
 ## Specifications
