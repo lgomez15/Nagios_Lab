@@ -12,9 +12,8 @@ Setting up Nagios can be complex due to the need for multiple machines and compa
 
 We recommend using PuTTY for a better experience, as it allows copy and paste operations.
 
-#Download Virtual Nagios Lab Here
+###Download Virtual Nagios Lab Here
   [Lab]([https://github.com/NagiosEnterprises/nagioscore/releases](https://www.dropbox.com/scl/fi/d0jqucz73cjfrqhdf77gq/Nagios_Lab.zip?rlkey=ek6vgn76m9tfnvu6nfhcg0xm6&dl=0))
-
 ## Specifications
 
 ### Virtualization:
