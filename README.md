@@ -53,7 +53,7 @@ yum install -y gcc glibc glibc-common openssl openssl-devel perl wget
 To log in to both the Nagios server and the client, use the following credentials:
 
 - **Username:** `root`
-- **Password:** `alergia`
+- **Password:** `nagioslab`
 
 
 The lab is set up so that you only need to follow the steps below to start using Nagios on the server.
