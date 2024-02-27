@@ -13,7 +13,7 @@ Setting up Nagios can be complex due to the need for multiple machines and compa
 We recommend using PuTTY for a better experience, as it allows copy and paste operations.
 
 ### Download Virtual Nagios Lab Here
-[Lab](https://www.dropbox.com/scl/fi/d0jqucz73cjfrqhdf77gq/Nagios_Lab.zip?rlkey=ek6vgn76m9tfnvu6nfhcg0xm6&dl=0)
+[Lab download link](https://www.dropbox.com/scl/fi/d0jqucz73cjfrqhdf77gq/Nagios_Lab.zip?rlkey=ek6vgn76m9tfnvu6nfhcg0xm6&dl=0)
 
   
 ## Specifications
@@ -47,6 +47,14 @@ yum install -y gcc glibc glibc-common openssl openssl-devel perl wget
 ```
 
 ## Usage Instructions
+
+## Login Information
+
+To log in to both the Nagios server and the client, use the following credentials:
+
+- **Username:** `root`
+- **Password:** `alergia`
+
 
 The lab is set up so that you only need to follow the steps below to start using Nagios on the server.
 
